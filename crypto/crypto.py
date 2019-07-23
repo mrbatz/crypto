@@ -31,4 +31,4 @@ while True:
     plt.legend()
     plt.show()
 
-    tm.sleep(30)
+    tm.sleep(20)
